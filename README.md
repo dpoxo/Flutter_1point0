@@ -1,22 +1,22 @@
-.<b>Author</b>: DanOdin
+<b>Author</b>: DanOdin
 
-.<b>Project</b>: Overflow error in row
+<b>Project</b>: Overflow error in row [Flutter]
 
-For: Zuri Training
+<b>For</b>: Zuri Training
 
-Genre: Bug Hunting
+<b>Genre</b>: Bug Hunting
 
-Product Type: Course task
+<b>Product Type</b>: Course task
 
-Test Area: Web in another fork[Unable to run emulators, build time to mobile device is long, pc is weak]
+<b>Test Area</b>: Web in another fork[Unable to run emulators, build time to mobile device is long, pc is weak]
 
-Date Written: 27-April-2021
+<b>Date Written</b>: 27-April-2021
 
-Date Completed: 27-April-2021
+<b>Date Completed</b>: 27-April-2021
 
-Start Time - End Time: 10:45 pm - 1:45PM
+<b>Start Time - End Time</b>: 10:45 pm - 1:45PM
 
-How was it solved: Following flutter video by abbie, I simply put the containers in the row in an Expanded() widget like she did with other containers and problem solved.
+<b>How was it solved</b>: Following flutter video by abbie, I simply put the containers in the row in an Expanded() widget like she did with other containers and problem solved.
 
-Note: :) in excitement about my first task in flutter, i made it colourful
+<b>Note</b>: :) in excitement about my first task in flutter, i made it colourful
 hope that doesn't cause any troubles. .
