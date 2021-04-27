@@ -1,5 +1,15 @@
-# Steps
+<b>Author</b>: DanOdin
+<b>Project</b>: Overflow error in row
+For: Zuri Training
+Genre: Bug Hunting
+Product Type: Course task
+Test Area: Web in another fork[Unable to run emulators, build time to mobile device is long, pc is weak]
+Date Written: 27-April-2021
+Date Completed: 27-April-2021
+Start Time - End Time: 10:45 pm - 1:45PM
 
-1. Fork and clone the forked repository - Guide ==> https://docs.github.com/en/github/getting-started-with-github/fork-a-repo
-2. Make changes and push to your forked repository.
-3. Copy the link of your forked repository and submit.
+How was it solved: Following flutter video by abbie, simply put the containers in
+the row in an Expanded() widget like she did with other containers and problem solved.
+
+Note: :) in excitement about my first task in flutter, i made it colourful
+hope that doesn't cause any troubles. .
