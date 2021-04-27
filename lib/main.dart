@@ -41,7 +41,7 @@ class HelloWorldApp extends StatelessWidget {
                 ),
               ),
               Expanded(
-                child: Row( // row 
+                child: Row( // this is the row, it has 4 containers inside
                   children: [
                         Expanded(
                           child: Container( // container 1
